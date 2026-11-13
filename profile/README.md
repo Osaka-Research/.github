@@ -1,38 +1,54 @@
-# Osaka Research
+# OSAKA RESEARCH
 
-We build software that powers robots.
-
-Osaka Research is a software-first robotics group. We believe the hardest problems in modern robotics — perception, planning, coordination, safety, and developer experience — are fundamentally software problems. Our mission is to write the code that lets robots perceive their environment, reason about it, and act reliably in the real world.
-
-## What We Focus On
-
-- **Perception & Sensing** — vision pipelines, sensor fusion, and real-time interpretation of the physical world.
-- **Motion Planning & Control** — trajectory optimization, kinematics, and low-latency control loops.
-- **Autonomy & Decision-Making** — behavior stacks, task planning, and ML-driven policies for complex environments.
-- **Developer Tooling** — SDKs, simulators, and infrastructure that let roboticists ship faster and debug deeper.
-- **Safety & Reliability** — formal verification, fault tolerance, and runtime monitoring for systems that operate around people.
-
-## Why Software
-
-Hardware gives a robot a body. Software gives it intent. Great mechanical design is wasted without equally great software to drive it — and the inverse is just as true. We invest in the software layer because that's where capability, adaptability, and long-term value compound.
-
-## How We Work
-
-- **Open by default.** Most of our research artifacts, libraries, and benchmarks are released here.
-- **Reproducible.** Every project ships with environment specs, datasets (where licensing allows), and evaluation scripts.
-- **Interoperable.** We build on and contribute to ROS 2, Isaac, MuJoCo, and the broader open robotics stack.
-- **Rigorous.** Benchmarks, ablations, and real-robot validation — not just videos.
-
-## Repositories
-
-Browse our public repos above. Each has its own README, setup guide, and contribution notes. Start with repos tagged `getting-started` if you're new.
-
-## Get Involved
-
-- **Collaborate** — reach out via Issues or Discussions on any repo.
-- **Contribute** — PRs welcome. See `CONTRIBUTING.md` in each repo.
-- **Contact** — vipulchartal@gmail.com
+### *We teach machines to move. Loudly.*
 
 ---
 
-*Osaka Research — software for the robots of tomorrow.*
+Robotics has a dirty secret: **the hardware is almost solved.** Motors spin. Joints bend. Sensors see. What's missing — what's *always* been missing — is the **software** that turns twitching metal into something that actually *thinks*.
+
+That's us. That's the whole thing.
+
+We don't make robots. **We make robots work.**
+
+---
+
+## 🧠 What We Actually Do
+
+We write the code that lives in the gap between *"it moves"* and *"it understands."*
+
+- **PERCEPTION** → We turn pixels, point clouds, and noise into meaning.
+- **PLANNING** → We decide what should happen next, in milliseconds, without blinking.
+- **CONTROL** → We close the loop between intention and motion — tight, fast, unflinching.
+- **AUTONOMY** → We give machines the agency to figure it out when the script runs out.
+- **TOOLING** → We build the SDKs, sims, and scaffolding so other roboticists stop reinventing the wheel.
+- **SAFETY** → Because a robot that fails loud is a robot that fails *well*.
+
+---
+
+## 🔥 Our Rules
+
+**1. Software eats robotics.** Hardware is a chassis. Code is the soul.
+**2. Open or it didn't happen.** If we can't share it, we try harder.
+**3. Benchmarks over demos.** Pretty videos lie. Numbers don't.
+**4. Real robots, real rooms.** Simulation is a warm-up. The world is the exam.
+**5. Ship fast, prove faster.** Research without release is a diary.
+
+---
+
+## 📦 The Repos
+
+Every repo in this org is a bet. Some are tools. Some are experiments. Some are quiet, world-shifting infrastructure. **Click around. Break things. Open issues.**
+
+---
+
+## 🤝 Come Build With Us
+
+- **Collaborate** → DM us through any repo's Issues.
+- **Contribute** → Fork, hack, PR. We read every single one.
+- **Contact** → **vipulchartal@gmail.com**
+
+---
+
+### *We're not here to make robots cuter. We're here to make them useful.*
+
+**— Osaka Research**
