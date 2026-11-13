@@ -31,7 +31,7 @@ Browse our public repos above. Each has its own README, setup guide, and contrib
 
 - **Collaborate** — reach out via Issues or Discussions on any repo.
 - **Contribute** — PRs welcome. See `CONTRIBUTING.md` in each repo.
-- **Contact** — research@osaka-research.example
+- **Contact** — vipulchartal@gmail.com
 
 ---
 
