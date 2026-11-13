@@ -1,54 +1,47 @@
 # OSAKA RESEARCH
 
-### *We teach machines to move. Loudly.*
+### We write the software that runs robots.
 
 ---
 
-Robotics has a dirty secret: **the hardware is almost solved.** Motors spin. Joints bend. Sensors see. What's missing — what's *always* been missing — is the **software** that turns twitching metal into something that actually *thinks*.
+Robotics is a software problem. It always was.
 
-That's us. That's the whole thing.
+The motors work. The sensors see. The joints bend. None of that matters without the code that makes a machine **decide**, **act**, and **understand**. That code is what we build. That's the entire discipline. Everything else is packaging.
 
-We don't make robots. **We make robots work.**
-
----
-
-## 🧠 What We Actually Do
-
-We write the code that lives in the gap between *"it moves"* and *"it understands."*
-
-- **PERCEPTION** → We turn pixels, point clouds, and noise into meaning.
-- **PLANNING** → We decide what should happen next, in milliseconds, without blinking.
-- **CONTROL** → We close the loop between intention and motion — tight, fast, unflinching.
-- **AUTONOMY** → We give machines the agency to figure it out when the script runs out.
-- **TOOLING** → We build the SDKs, sims, and scaffolding so other roboticists stop reinventing the wheel.
-- **SAFETY** → Because a robot that fails loud is a robot that fails *well*.
+We don't apologize for robots. We don't hype them. **We ship the software that makes them useful.**
 
 ---
 
-## 🔥 Our Rules
+## What We Build
 
-**1. Software eats robotics.** Hardware is a chassis. Code is the soul.
-**2. Open or it didn't happen.** If we can't share it, we try harder.
-**3. Benchmarks over demos.** Pretty videos lie. Numbers don't.
-**4. Real robots, real rooms.** Simulation is a warm-up. The world is the exam.
-**5. Ship fast, prove faster.** Research without release is a diary.
+**Perception.** We turn raw sensor data into structured understanding. Vision, fusion, scene reasoning — the parts that let a machine know where it is and what it's looking at.
 
----
+**Planning and Control.** Trajectory generation, kinematics, tight control loops. The math that converts intent into motion, and does it fast enough to matter.
 
-## 📦 The Repos
+**Autonomy.** Behavior stacks and decision policies that hold up when the environment stops cooperating.
 
-Every repo in this org is a bet. Some are tools. Some are experiments. Some are quiet, world-shifting infrastructure. **Click around. Break things. Open issues.**
+**Tooling.** SDKs, simulators, and infrastructure. The internals we need, published so nobody has to rebuild them.
+
+**Safety.** Verification, monitoring, and failure modes designed on purpose instead of discovered in production.
 
 ---
 
-## 🤝 Come Build With Us
+## How We Operate
 
-- **Collaborate** → DM us through any repo's Issues.
-- **Contribute** → Fork, hack, PR. We read every single one.
-- **Contact** → **vipulchartal@gmail.com**
+We build what we need and release it. We benchmark everything we claim. We run on real hardware before we talk about results. We don't publish demos we can't reproduce.
+
+We don't chase trends. We don't optimize for stars. We don't write code to impress anyone — we write it because the next thing we want to do depends on it existing.
+
+Our repos reflect that. Some are infrastructure. Some are experiments. All of them are in service of the work.
 
 ---
 
-### *We're not here to make robots cuter. We're here to make them useful.*
+## The Work
 
-**— Osaka Research**
+Everything we build lives in this org. Read the code. Run it. Argue with it. That's the only review that matters.
+
+---
+
+**Osaka Research.** Software for machines that move.
+
+Contact: vipulchartal@gmail.com
